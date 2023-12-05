@@ -43,7 +43,6 @@ Start the server
 
 ## Screenshots
 
-![App Screenshot](https://github.com/Zajjaj-Khan/Goals-app-2024-ReactNative.git/raw/master/assets/images/InputScreen.png)
+![App Screenshot](https://github.com/Zajjaj-Khan/Goals-app-2024-ReactNative/blob/master/assets/images/ScreenShot_App.jpg)
 
-![App Screenshot](https://github.com/Zajjaj-Khan/Goals-app-2024-ReactNative.git/raw/master/assets/images/ListScreen.png)
 
