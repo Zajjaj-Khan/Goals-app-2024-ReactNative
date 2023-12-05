@@ -1,7 +1,7 @@
 
 # App for New Year Resolution 2024 😊
 
-A goal keeping app that keep track of goals we have to encounter in 2024
+A goal-keeping app that keeps track of goals we have to encounter in 2024
 
 
 
@@ -13,12 +13,12 @@ Clone the project
 ```bash
   git clone https://github.com/Zajjaj-Khan/Goals-app-2024-ReactNative.git
 ```
-Make sure you have node installed in your machine
+Make sure you have a node installed on your machine
 
 
 [Download NodeJS from Here](https://nodejs.org/en/download/current)
 
-To check if you already have NodeJS installed Run command:
+To check if you already have NodeJS installed Run the command:
 
 ```node --version```
 
@@ -37,7 +37,7 @@ Install dependencies
 Start the server
 
 ```bash
-  npm run start
+  npx expo start
 ```
 
 
